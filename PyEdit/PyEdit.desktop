@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=PyEdit
+Comment=A simple editor for python files
+Exec=pyedit
+Terminal=True #for debugging sake
+Type=Application
+MimeType=text/x-plain;
+Icon=PyEdit.ico
+Categories=GNOME;GTK;Utility;TextEditor;
+StartupNotify=False

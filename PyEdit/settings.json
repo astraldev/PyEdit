@@ -1,0 +1,21 @@
+{
+  "setting": {
+    "font": "Sans Bold 12",
+    "justification": "none",
+    "closing_quote": "on",
+    "closing_bracket": "on",
+    "auto_save_delay": 0,
+    "auto_save": "off",
+    "auto_save_timing": "minutes"
+  },
+  "color": {
+    "syntax_key": "rgba(171, 118, 167, 1)",
+    "syntax_key2": "rgba(70, 120, 189, 1)",
+    "syntax_oper": "rgb(195,195,195)",
+    "syntax_quote": "rgba(187, 132, 110, 1)",
+    "syntax_num": "rgba(153, 172, 153, 1)",
+    "comment": "rgba(80, 122, 66, 0.977)",
+    "search": "rgba(125, 125, 125, 0.877)"
+  },
+  "files_opened": []
+}
