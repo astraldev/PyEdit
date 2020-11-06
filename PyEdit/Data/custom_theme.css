@@ -1,0 +1,116 @@
+/*sourceview{
+  padding-right: 6px;
+  padding-left: 7px;
+  padding-top: 10px;
+  border-right-style: solid;
+  border-right-color: rgba(64, 64, 64, 1);
+  border-right-width: 0.5px;
+  background: rgb(24, 24, 24);
+  color: rgb(163, 163, 163);
+}*/
+notebook textview.view text{
+  background: rgb(24, 24, 24);
+  font-family: Sahadeva;
+  font-size: 15px;
+}
+notebook textview.view text{
+  border-left: 1px solid rgb(107, 107, 107);
+}
+notebook {
+  background-color: rgb(30, 30, 30);
+}
+textview.view text selection{
+  background-color: rgba(53, 68, 71, 0.521);
+}
+box .themed-dark{
+  background-color: rgb(32, 32, 32);
+}
+label.col-lab{
+  color: rgb(200, 200, 207);
+  background-color: rgb(41, 41, 41);
+  padding: 5px;
+  border-radius: 3px;
+}
+label.line-lab{
+  color:rgb(200, 207, 207);
+  background-color: rgb(41,41,41);
+  padding: 5px;
+  border-radius: 3px;
+}
+#suggest-popup treeview.view button{
+  color: rgb(223, 223, 223);
+  background-color: rgb(32, 32, 32);
+}
+#suggest-popup treeview.view:selected{
+  color: rgb(204, 204, 204);
+  background-color: rgb(68, 68, 68);
+}
+#suggest-popup treeview.view{
+  background-color: rgb(32, 32, 32);
+}
+#s-scroll{
+  background-color: rgb(32, 32, 32);
+}
+#suggest-popup treeview *{
+  background-color: rgb(32, 32, 32);
+}
+#doc-win{
+  border-top: 1px;
+  border-style: solid;
+  border-top-color: rgb(64,64,64);
+  background-color: rgb(32, 32, 32);
+}
+#close-without-saving{
+  background-image: linear-gradient(90deg,rgb(185, 47, 47),rgb(202, 30, 30));
+}
+.themed-dark{
+  background-color: rgb(32, 32, 32);
+}
+.themed-dark .button{
+  background-image: linear-gradient(0deg, rgb(34, 34, 34),rgb(41, 41, 41));
+}/*
+.themed-dark treeview *{
+  background-color: rgb(31, 31, 31);
+}*/
+.themed-dark .button:hover{
+  background-image: linear-gradient(0deg, rgb(42, 42, 42),rgb(45,45,45));
+  color: white;
+}
+.themed-light{
+  background-color: rgb(172, 172, 172);
+}
+progressbar progress.pulse{
+  background-color: green;
+}
+#file-box{
+  background-color: rgb(25,25,25);
+  border-right: 1px solid rgb(66, 66, 66);
+}
+#file-box list, #file-box list box{
+  background-color: rgb(25,25,25);
+}
+#file-lab{
+  background-color: rgb(32,32,32);
+  padding: 5px;
+  padding-bottom: 10px;
+}
+#folder-tree.view{
+  background-color: rgb(25, 25, 25);
+}
+#folder-tree.view button{
+  color: rgb(223, 223, 223);
+  background-color: rgb(25, 26, 24);
+}
+#folder-tree.view:selected{
+  color: rgb(230, 230, 230);
+  background-color: rgb(53, 53, 53);
+}
+#folder-tree.view{
+  background-color: rgb(25, 25, 25);
+}
+#t-notebook, #t-notebook header.top, #t-notebook stack{
+  background-color: rgb(24, 24, 24);
+}
+f{
+  color:#369dd7;
+}

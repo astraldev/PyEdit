@@ -1,0 +1,30 @@
+{
+  "colors":{
+    "syntax_key2": "rgb(160, 94, 154)",
+    "syntax_key1": "rgb(42, 78, 179)",
+    "quote":"rgb(190, 122, 95)",
+    "comment":"rgba(80, 122, 66, 0.977)",
+    "class_name":"rgb(151, 175, 131)",
+    "operators":"rgb(200, 200, 200)",
+    "decorator":"rgb(233, 226, 160)",
+    "exceptions":"rgb(255, 118, 77)",
+    "numbers":"rgb(221, 236, 217)",
+    "fun_name":"rgb(233, 226, 160)",
+    "fun_p":"rgb(171, 230, 248)",
+    "excape-c":"rgb(218, 161, 40)"
+  },
+  "attributes":{
+    "syntax_key2":["normal"],
+    "syntax_key1":["normal"],
+    "quote":["medium"],
+    "comment":["light", "italic"],
+    "class_name":["bold"],
+    "operators":null,
+    "decorator":null,
+    "exceptions":null,
+    "numbers":null,
+    "fun_name":["bold"],
+    "fun_p":["bold","italic"],
+    "excape-c":null
+  }
+}
