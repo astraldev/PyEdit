@@ -1,2 +1,0 @@
-first --> cython PyEdit.pyx --embed
-second -> gcc -Os -I /usr/include/python3.7 PyEdit.c -lpython3.7m -o app
