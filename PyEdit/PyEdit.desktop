@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Python Editor
-Comment=Edit python files
-Exec=PyEdit
-Terminal=false
-Type=Application
-StartupNotify=true
-MimeType=text/x-python;
-Icon=./icon128.ico
