@@ -31,7 +31,7 @@ Future
 License 
 -------
 
-PyEdit is released under the [GNU](http://www.gnu.org) Public license see [COPYING](COPYING) for more information
+PyEdit is released under the [LGPL](https://www.gnu.org/licenses/lgpl-3.0.en.html) Public license see [COPYING](COPYING) for more information
 
 Dependencies
 ------------
