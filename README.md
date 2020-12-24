@@ -1,6 +1,5 @@
 PyEdit
 ======
-![Logo](./Data/pyedit.png)
 
 A python based python editor. Made entirely for Linux ![image](./images/preview.png)
 
