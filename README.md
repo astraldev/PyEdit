@@ -16,11 +16,11 @@ Features
     5. Rename
     4. New Folders / Files 
     
-* IPython  console ![ipy](./images/ipyc.png)
-* Python console ![python](./images/pyc.png)
-* Terminal ![term](./images/term.png)
+* IPython  console 
+* Python console 
+* Terminal 
 * Faster load time
-* Opens Project folders and displays all files ![folder view](./images/folderv.png)
+* Opens Project folders and displays all files 
 * Run files in internal terminal
 
 Future
@@ -31,12 +31,12 @@ Future
 License 
 -------
 
-PyEdit is released under the [GNU]() Public license see [COPYING](COPYING) for more information
+PyEdit is released under the [GNU](http://www.gnu.org) Public license see [COPYING](COPYING) for more information
 
 Dependencies
 ------------
 
-PyEdit requires [gtk](http://gnome.org)
+PyEdit requires [gtk](http://www.gtk.org)
 for list of full dependencies see [dependencies](dependencies) 
 
 Contributions
