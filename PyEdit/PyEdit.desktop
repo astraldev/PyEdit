@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=PyEdit
+Comment=Edit python files
+Exec=pyedit %U
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Editor;Development
+MimeType=text/x-python;text/plain
+Icon=pyedit
+

@@ -17,15 +17,15 @@ setup(
     name='PyEdit',
     version='1.3.0',
     description='A Python Editor using GTK',
-    long_description=str(open('README.md').read()),
+    long_description=str(open('README.rst').read()),
     author='AstralDev',
     author_email='ekureedem480@gmail.com',
-    license='GNU',
+    license='LGPL',
     keywords='editor development',
     classifiers=["Development Status :: 4 - Beta",
                  "Environment :: X11 Applications :: GTK",
                  "Intended Audience :: Developers"
-    ]
+    ],
     python_requires='>=3',
     install_requires=['autopep8', 'jedi', 'markdown', "PyGObject"],
     packages=find_packages(include=['pyedit', 'pyedit.PyEditxN']),
