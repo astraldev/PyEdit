@@ -1,27 +1,27 @@
 PyEdit
 ======
 
-A python based python editor. Made entirely for Linux ![image](./images/preview.png)
+A python based python code editor. Made entirely for Linux ![image](./images/preview.png)
 
 Features
 --------
 * Opening folders
 * Folder Viewer with icons
-* File Operations
 
+* Supports File Operations incl.
     1. Opening files/folders
     2. Copy Path
     3. Copy relative path
     4. Delete
     5. Rename
-    4. New Folders / Files 
+    4. New Files/Folders
     
-* IPython  console 
 * Python console 
-* Terminal 
-* Faster load time
-* Opens Project folders and displays all files 
-* Run files in internal terminal
+* IPython console 
+* Has Terminal 
+* Faster loading time
+* Is able to open Project folders and display all files 
+* Has ability to run files in buit-in terminal
 
 Future
 ------
@@ -31,13 +31,12 @@ Future
 License 
 -------
 
-PyEdit is released under the [LGPL](https://www.gnu.org/licenses/lgpl-3.0.en.html) Public license see [COPYING](COPYING) for more information
+PyEdit is released under [LGPL](https://www.gnu.org/licenses/lgpl-3.0.en.html) see [LICENSE](LICENSE) for more information
 
 Dependencies
 ------------
 
-PyEdit requires [gtk](http://www.gtk.org)
-for list of full dependencies see [dependencies](dependencies) 
+PyEdit requires [gtk](http://www.gtk.org) for list of full dependencies see [dependencies](dependencies) 
 
 Contributions
 -------------
@@ -45,4 +44,4 @@ Contributions
 PyEdit development relies on voluntary contributions and everyone is invited
 to help.
 
-See the file [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
+See the file [CONTRIBUTING.md](CONTRIBUTING.md) for more information on Contributions.
