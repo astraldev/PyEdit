@@ -18,10 +18,10 @@ setup(
     version='1.3.0',
     description='A Python Editor using GTK',
     long_description=str(open('README.rst').read()),
-    author='AstralDev',
+    author='AstralDev aka Ekure Nyong',
     author_email='ekureedem480@gmail.com',
-    license='LGPL',
-    keywords='editor development',
+    license='LGPL-3.0',
+    keywords='py python ipython code editor development production program programming markdown ide environment platform',
     classifiers=["Development Status :: 4 - Beta",
                  "Environment :: X11 Applications :: GTK",
                  "Intended Audience :: Developers"
