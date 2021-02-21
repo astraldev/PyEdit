@@ -14,6 +14,7 @@
   <color name="white"                       value="#FFFFFF"/>
   <color name="brown"                       value="#B07E00"/>
   <color name="black"                       value="#111111"/>
+  <color name="green"                       value="#66af29" />
 
   <!--Base0 slight ash-->
   <color name="base0"                       value="#4d4c4c"/>
@@ -33,7 +34,7 @@
   <!--not implemented
   <style name="right-margin"                foreground="black" background="black"/>
   -->
-  <style name="bracket-match"               foreground="#daf8ff" background="base1"/>
+  <!-- <style name="bracket-match"               foreground="#daf8ff" background="base1"/> -->
   <style name="bracket-mismatch"            foreground="red"/>
 
   <style name="draw-spaces"                 foreground="#d3d7cf"/>
@@ -59,6 +60,12 @@
   <style name="def:floating-point"          foreground="white1"/>
   <style name="def:preprocessor"            foreground="#e9e2a0"/>
   <style name="def:complex"                 use-style="def:base-n-integer"/>
+  <style name="def:special-constant"          foreground="red" />
+  
+  <style name="desktop:key"                 foreground="green" />
+  <style name="desktop:boolean"                 foreground="red" />
+  <style name="desktop:group"              foreground="blue" italic="true" />
+  <!-- CSS Styles -->
 
   <style name="def:character"               foreground="#9b5395"/>
   <style name="def:string"                  foreground="#be7a5f"/>
@@ -77,8 +84,14 @@
   <!-- Statements -->
   <style name="def:statement"               bold="true" />
 
+  <style name="css:universal-selector"      foreground="dark-blue"/>
+  <style name="css:color"                    foreground="base1"  bold="true"/>
+  <style name="css:pseudo-class"            use-style="def:string"/>
+  <style name="css:class-selector"           foreground="#0d7797"/>
+  <style name="c:preprocessor"                  foreground="#ad33b1" />
+  
   <!-- Language specific styles -->
-
+  <style name="markdown:code"             foreground="#4f8d1b" />
   <style name="python:string-conversion"    background="#BEBEBE"/>
   <style name="python:module-handler"       use-style="def:character"/>
 
